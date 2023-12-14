@@ -1,0 +1,39 @@
+repo_name: biggianteye/cli-table
+report_id: d610148bbf5159af308882c2bc5fd33c
+repo_type: Public
+timestamp: '2023-12-14T18:09:14+00:00'
+requested_by: jc21
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: victorjonsson/markdowndocs
+  description: Command line tool for generating markdown-formatted class documentation
+  package_url: https://packagist.org/victorjonsson/markdowndocs
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source: composer.json
+  last_updated_by: Jamie Curnow
+  last_updated_on: 2015-08-19 06:04:53.000000000 Z
